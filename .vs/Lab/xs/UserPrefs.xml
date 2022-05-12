@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{02A77FE8-0D5A-5B32-303D-7824C54DFFF4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scenemanager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BalloonMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Scenemanager.cs" Line="37" Column="10" />
+      <File FileName="Assets/Scripts/Laser.cs" />
+      <File FileName="Assets/Scripts/Parallax.cs" />
+      <File FileName="Assets/Scripts/Shooting.cs" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/PersistentData.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b2b7423-3a9e-4cb4-80e1-6fccba4d4beb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
